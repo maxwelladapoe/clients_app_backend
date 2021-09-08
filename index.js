@@ -15,7 +15,7 @@ const swaggerOptions = {
         openapi: '3.0.0',
         info: {
             title: "Client's App",
-            description: "Practical test project for fullstack javascript developer role at Protranslating",
+            description: "Practical test project for fullstack javascript developer role",
             version: "1.0.0",
             contact: {
                 name: "Maxwell Adapoe",
